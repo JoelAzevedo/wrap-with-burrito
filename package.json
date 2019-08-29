@@ -1,6 +1,6 @@
 {
   "name": "wrap-with-burrito",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrap your text with burritos. Tasty!",
   "main": "index.js",
   "scripts": {
