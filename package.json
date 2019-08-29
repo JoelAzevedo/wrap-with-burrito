@@ -1,0 +1,25 @@
+{
+  "name": "wrap-with-burrito",
+  "version": "1.0.0",
+  "description": "Wrap your text with burritos. Tasty!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoelAzevedo/wrap-with-burrito.git"
+  },
+  "keywords": [
+    "javascript",
+    "emoji",
+    "wrap",
+    "npm"
+  ],
+  "author": "Joel Azevedo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoelAzevedo/wrap-with-burrito/issues"
+  },
+  "homepage": "https://github.com/JoelAzevedo/wrap-with-burrito#readme"
+}
