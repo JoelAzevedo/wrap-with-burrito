@@ -1,2 +1,2 @@
 # wrap-with-burrito
-Wrap your text with burritos. Tasty!
+🌯 Wrap your text with burritos. Tasty! 🌯
