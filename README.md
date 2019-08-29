@@ -1,5 +1,8 @@
 # wrap-with-burrito
-🌯 Wrap your text with burritos. Tasty! 🌯
+
+[![npm version](https://badge.fury.io/js/wrap-with-burrito.svg)](https://badge.fury.io/js/wrap-with-burrito)
+
+🌯Wrap your text with burritos. Tasty!🌯
 
 ## Install
 ```
